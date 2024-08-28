@@ -1,0 +1,117 @@
+body{
+    background-color: rgb(202, 236, 225);
+}
+
+.container{
+    width: 500px;
+    height: 600px;
+    background-color: white;
+    position: absolute;
+    left: 29%;
+    top: 50px;
+}
+h1{
+    font-family: serif;
+    position: absolute;
+    left: 15px;
+}
+.p1{
+    position: absolute;
+    left: 15px;
+    top: 60px;
+}
+.inp1{
+    position: absolute;
+    left: 15px;
+    top: 100px;
+    width: 200px;
+    height: 30px;
+}
+
+.p2{
+    position: absolute;
+    left: 270px;
+    top: 60px;
+}
+.inp2{
+    position: absolute;
+    left: 270px;
+    top: 100px;
+    width: 200px;
+    height: 30px;
+}
+.p3{
+    position: absolute;
+    left: 15px;
+    top: 140px;
+}
+.inp3{
+    position: absolute;
+    left: 15px;
+    top:180px;
+    width: 455px;
+    height: 30px;
+}
+.p4{
+    position: absolute;
+    left: 15px;
+    top: 220px;
+}
+.inp4{
+    position: absolute;
+    left: 15px;
+    top:265px;
+    width: 20px;
+    height: 20px;
+}
+.p5{
+    position: absolute;
+    left: 50px;
+    top: 255px;
+}
+.inp5{
+    position: absolute;
+    left: 250px;
+    top:265px;
+    width: 20px;
+    height: 20px;
+}
+.p6{
+    position: absolute;
+    left: 280px;
+    top: 255px;
+}
+.p7{
+    position: absolute;
+    left: 15px;
+    top: 300px;
+}
+.inp6{
+    position: absolute;
+    left: 15px;
+    top: 340px;
+    width: 455px;
+    height: 70px;
+}
+.inp7{
+    position: absolute;
+    left: 15px;
+    top: 440px;
+    width: 15px;
+    height: 15px;
+}
+.p8{
+    position: absolute;
+    left: 50px;
+    top: 425px;
+}
+button{
+    position: absolute;
+    left: 15px;
+    top: 500px;
+    width: 455px;
+    height: 40px;
+    border-radius:15px;
+    background-color: rgb(72, 72, 189);
+    color: white;
+}
